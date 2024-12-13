@@ -1,0 +1,506 @@
+[
+  {
+    "kode": "AEG",
+    "kota": "Padang Sidempuan"
+  },
+  {
+    "kode": "BKS",
+    "kota": "Bengkulu"
+  },
+  {
+    "kode": "BTH",
+    "kota": "Batam"
+  },
+  {
+    "kode": "BTJ",
+    "kota": "Banda Aceh"
+  },
+  {
+    "kode": "DJB",
+    "kota": "Jambi"
+  },
+  {
+    "kode": "DTB",
+    "kota": "Siborong-Borong"
+  },
+  {
+    "kode": "DUM",
+    "kota": "Dumai"
+  },
+  {
+    "kode": "FLZ",
+    "kota": "Sibolga"
+  },
+  {
+    "kode": "GNS",
+    "kota": "Gunung Sitoli"
+  },
+  {
+    "kode": "KNO",
+    "kota": "Medan, Deli Serdang"
+  },
+  {
+    "kode": "LLG",
+    "kota": "Lubuklinggau"
+  },
+  {
+    "kode": "LSE",
+    "kota": "Kepulauan Batu"
+  },
+  {
+    "kode": "MEQ",
+    "kota": "Suka Makmue"
+  },
+  {
+    "kode": "MES",
+    "kota": "Medan"
+  },
+  {
+    "kode": "NTX",
+    "kota": "Ranai"
+  },
+  {
+    "kode": "PDG",
+    "kota": "Padang"
+  },
+  {
+    "kode": "PGK",
+    "kota": "Pangkal Pinang"
+  },
+  {
+    "kode": "PKU",
+    "kota": "Pekanbaru"
+  },
+  {
+    "kode": "PLM",
+    "kota": "Palembang"
+  },
+  {
+    "kode": "RKI",
+    "kota": "Sipora"
+  },
+  {
+    "kode": "SIW",
+    "kota": "Simalungun, Toba Samosir"
+  },
+  {
+    "kode": "SNX",
+    "kota": "Sinabang"
+  },
+  {
+    "kode": "TJQ",
+    "kota": "Tanjung Pandan"
+  },
+  {
+    "kode": "TKG",
+    "kota": "Bandar Lampung"
+  },
+  {
+    "kode": "TNJ",
+    "kota": "Tanjung Pinang"
+  },
+  {
+    "kode": "TXE",
+    "kota": "Takengon"
+  },
+  {
+    "kode": "BDO",
+    "kota": "Bandung"
+  },
+  {
+    "kode": "BTO",
+    "kota": "Tangerang"
+  },
+  {
+    "kode": "BWX",
+    "kota": "Banyuwangi"
+  },
+  {
+    "kode": "BXW",
+    "kota": "Bawean"
+  },
+  {
+    "kode": "CBN",
+    "kota": "Cirebon"
+  },
+  {
+    "kode": "CGK",
+    "kota": "Jakarta, Tangerang"
+  },
+  {
+    "kode": "CKP",
+    "kota": "Cikampek"
+  },
+  {
+    "kode": "CXP",
+    "kota": "Cilacap"
+  },
+  {
+    "kode": "DPK",
+    "kota": "Depok"
+  },
+  {
+    "kode": "JBB",
+    "kota": "Jember"
+  },
+  {
+    "kode": "JKS",
+    "kota": "Jakarta Selatan"
+  },
+  {
+    "kode": "JKT",
+    "kota": "Jakarta"
+  },
+  {
+    "kode": "JOG",
+    "kota": "Yogyakarta"
+  },
+  {
+    "kode": "KJT",
+    "kota": "Majalengka"
+  },
+  {
+    "kode": "MLG",
+    "kota": "Malang"
+  },
+  {
+    "kode": "PCB",
+    "kota": "Tangerang Selatan"
+  },
+  {
+    "kode": "PPJ",
+    "kota": "Kepulauan Seribu"
+  },
+  {
+    "kode": "SOC",
+    "kota": "Surakarta"
+  },
+  {
+    "kode": "SRG",
+    "kota": "Semarang"
+  },
+  {
+    "kode": "SUB",
+    "kota": "Surabaya"
+  },
+  {
+    "kode": "TSY",
+    "kota": "Tasikmalaya"
+  },
+  {
+    "kode": "AMP",
+    "kota": "Tojo Una-Una"
+  },
+  {
+    "kode": "BUW",
+    "kota": "Bau-Bau"
+  },
+  {
+    "kode": "GTO",
+    "kota": "Gorontalo"
+  },
+  {
+    "kode": "KDI",
+    "kota": "Kendari"
+  },
+  {
+    "kode": "KSR",
+    "kota": "Selayar"
+  },
+  {
+    "kode": "LLO",
+    "kota": "Luwu"
+  },
+  {
+    "kode": "MDC",
+    "kota": "Manado"
+  },
+  {
+    "kode": "MJU",
+    "kota": "Mamuju"
+  },
+  {
+    "kode": "MNA",
+    "kota": "Melonguane"
+  },
+  {
+    "kode": "MOH",
+    "kota": "Morowali"
+  },
+  {
+    "kode": "MXB",
+    "kota": "Masamba"
+  },
+  {
+    "kode": "NAH",
+    "kota": "Sangihe"
+  },
+  {
+    "kode": "PLW",
+    "kota": "Palu"
+  },
+  {
+    "kode": "PSJ",
+    "kota": "Poso"
+  },
+  {
+    "kode": "PUM",
+    "kota": "Kolaka"
+  },
+  {
+    "kode": "UPG",
+    "kota": "Makassar"
+  },
+  {
+    "kode": "BDJ",
+    "kota": "Banjarmasin"
+  },
+  {
+    "kode": "BEJ",
+    "kota": "Tanjung Redep, Berau"
+  },
+  {
+    "kode": "BPN",
+    "kota": "Balikpapan"
+  },
+  {
+    "kode": "BXT",
+    "kota": "Bontang"
+  },
+  {
+    "kode": "DTD",
+    "kota": "Mahakam Ulu"
+  },
+  {
+    "kode": "KTG",
+    "kota": "Ketapang"
+  },
+  {
+    "kode": "LBW",
+    "kota": "Long Bawan"
+  },
+  {
+    "kode": "LPU",
+    "kota": "Long Apung"
+  },
+  {
+    "kode": "NNX",
+    "kota": "Nunukan"
+  },
+  {
+    "kode": "PKN",
+    "kota": "Pangkalanbun"
+  },
+  {
+    "kode": "PKY",
+    "kota": "Palangkaraya"
+  },
+  {
+    "kode": "PNK",
+    "kota": "Pontianak"
+  },
+  {
+    "kode": "PSU",
+    "kota": "Putussibau"
+  },
+  {
+    "kode": "SMQ",
+    "kota": "Sampit"
+  },
+  {
+    "kode": "SQG",
+    "kota": "Sintang"
+  },
+  {
+    "kode": "SRI",
+    "kota": "Samarinda"
+  },
+  {
+    "kode": "TJS",
+    "kota": "Tanjung Selor"
+  },
+  {
+    "kode": "TRK",
+    "kota": "Tarakan"
+  },
+  {
+    "kode": "AGD",
+    "kota": "Anggi"
+  },
+  {
+    "kode": "AYX",
+    "kota": "Ayawasi"
+  },
+  {
+    "kode": "BIK",
+    "kota": "Biak"
+  },
+  {
+    "kode": "BXB",
+    "kota": "Babo"
+  },
+  {
+    "kode": "DJJ",
+    "kota": "Jayapura"
+  },
+  {
+    "kode": "FKQ",
+    "kota": "Fakfak"
+  },
+  {
+    "kode": "FOO",
+    "kota": "Schouten"
+  },
+  {
+    "kode": "KNG",
+    "kota": "Kaimana"
+  },
+  {
+    "kode": "MKQ",
+    "kota": "Merauke"
+  },
+  {
+    "kode": "MKW",
+    "kota": "Manokwari"
+  },
+  {
+    "kode": "NBX",
+    "kota": "Nabire"
+  },
+  {
+    "kode": "NTI",
+    "kota": "Bintuni"
+  },
+  {
+    "kode": "ORG",
+    "kota": "Oksibil"
+  },
+  {
+    "kode": "SOQ",
+    "kota": "Sorong"
+  },
+  {
+    "kode": "TIM",
+    "kota": "Timika"
+  },
+  {
+    "kode": "WMX",
+    "kota": "Puncak Jaya"
+  },
+  {
+    "kode": "WSR",
+    "kota": "Wasior"
+  },
+  {
+    "kode": "AHI",
+    "kota": "Amahai"
+  },
+  {
+    "kode": "AMQ",
+    "kota": "Ambon"
+  },
+  {
+    "kode": "BJK",
+    "kota": "Benjina"
+  },
+  {
+    "kode": "DOB",
+    "kota": "Dobo"
+  },
+  {
+    "kode": "GLX",
+    "kota": "Galela"
+  },
+  {
+    "kode": "JIO",
+    "kota": "Moa"
+  },
+  {
+    "kode": "KAZ",
+    "kota": "Kao"
+  },
+  {
+    "kode": "LAH",
+    "kota": "Labuha"
+  },
+  {
+    "kode": "LUV",
+    "kota": "Tual"
+  },
+  {
+    "kode": "NAM",
+    "kota": "Namlea"
+  },
+  {
+    "kode": "NDA",
+    "kota": "Banda"
+  },
+  {
+    "kode": "NRE",
+    "kota": "Namrole"
+  },
+  {
+    "kode": "OTI",
+    "kota": "Morotai"
+  },
+  {
+    "kode": "SXK",
+    "kota": "Saumlaki"
+  },
+  {
+    "kode": "TTE",
+    "kota": "Ternate"
+  },
+  {
+    "kode": "WUB",
+    "kota": "Buli"
+  },
+  {
+    "kode": "ABU",
+    "kota": "Atambua"
+  },
+  {
+    "kode": "BMU",
+    "kota": "Bima"
+  },
+  {
+    "kode": "DPS",
+    "kota": "Denpasar"
+  },
+  {
+    "kode": "ENE",
+    "kota": "Ende"
+  },
+  {
+    "kode": "KOE",
+    "kota": "Kupang"
+  },
+  {
+    "kode": "LBJ",
+    "kota": "Labuan Bajo"
+  },
+  {
+    "kode": "LOP",
+    "kota": "Mataram"
+  },
+  {
+    "kode": "MOF",
+    "kota": "Maumere"
+  },
+  {
+    "kode": "SAU",
+    "kota": "Savu"
+  },
+  {
+    "kode": "SWQ",
+    "kota": "Sumbawa Besar"
+  },
+  {
+    "kode": "TMC",
+    "kota": "Waikabubak"
+  },
+  {
+    "kode": "WGP",
+    "kota": "Waingapu"
+  }
+]
